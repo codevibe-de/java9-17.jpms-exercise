@@ -1,0 +1,25 @@
+# Gradle
+.gradle
+build/
+
+# Maven
+target/
+
+### IntelliJ IDEA ###
+.idea/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
