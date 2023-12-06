@@ -3,6 +3,7 @@ plugins {
 }
 
 application {
+    mainModule = "mod.appl"
     mainClass = "de.appl.MainApp"
 }
 
